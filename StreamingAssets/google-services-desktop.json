@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "320499783923",
+    "firebase_url": "https://ikusei-4a9a9.firebaseio.com",
+    "project_id": "ikusei-4a9a9",
+    "storage_bucket": "ikusei-4a9a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320499783923:android:8bad24afdfdb147a2fff86",
+        "android_client_info": {
+          "package_name": "com.riruCompany.FairyGarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320499783923-1j0nrg1r7ucff3sm015k06voskpqpb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dEHNxRoGpt-_CkC3eAWZ7oGTwe28gO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320499783923-1j0nrg1r7ucff3sm015k06voskpqpb2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2936572203534877~1414111724"
+    }
+  ],
+  "configuration_version": "1"
+}
